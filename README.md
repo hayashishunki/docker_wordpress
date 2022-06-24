@@ -13,3 +13,7 @@
     
     
     3,Chromeのアドレスバーにhttp://localhost:8000 を入力すれば見れます。
+    
+    
+    
+    4,終わるときは、docker-compose down --volumes を実行でコンテナ破棄します。
