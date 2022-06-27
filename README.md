@@ -16,4 +16,4 @@
     
     
     
-    4,終わるときは、docker-compose down --volumes を実行でコンテナ破棄します。
+    4,終わるときは、docker-compose down を実行でコンテナ破棄します。
